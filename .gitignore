@@ -1,0 +1,25 @@
+# Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Data / DB
+db/*.db
+db/**/*.db
+
+
+# Vector index (optional)
+*.faiss
+*.pkl
+faiss_index/
+schema_faiss/
+
+# OS
+.DS_Store
+Thumbs.db

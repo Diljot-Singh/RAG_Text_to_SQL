@@ -1,0 +1,16 @@
+openai
+langchain
+langchain-openai
+langchain-community
+langgraph
+llama-index
+faiss-cpu
+sqlalchemy
+pandas
+sqlglot
+tiktoken
+python-dotenv
+sentence-transformers
+ollama
+langchain-anthropic
+anthropic
